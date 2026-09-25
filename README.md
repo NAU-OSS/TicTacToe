@@ -36,3 +36,6 @@ Now you're ready to make your own changes.
 
 ## License and Copyright
 View the license for this project [here](LICENSE)
+
+## Code of Conduct
+View the code of conduct for this project [here](CODE_OF_CONDUCT.md)
