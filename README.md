@@ -7,6 +7,9 @@ The project uses the minimax algorithm to create a system that will choose the m
 ## Why is this project useful?
 This project allows for the understanding of the a common artificial intelligence algorithm for developing two-person games. Also, the project will allow for individuals to become familiar with connecting a language like Python to front-end displays.
 
+## Usage Examples
+The code for this project is open to anybody and can be used for any other project as long as reference to the original project is provided.
+
 ## How do I get started?
 Before contributing to the project, make sure to read the CONTRIBUTING file located [here](CONTRIBUTING.md)
 
@@ -33,6 +36,9 @@ Once the repo is cloned and you're ready to begin working with the project, crea
 git switch -c [YOUR_BRANCH_NAME]
 ```
 Now you're ready to make your own changes.
+
+## Contact information
+Any questions? Contact me at: lpb67@nau.edu
 
 ## License and Copyright
 View the license for this project [here](LICENSE)
