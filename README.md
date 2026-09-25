@@ -8,7 +8,7 @@ The project uses the minimax algorithm to create a system that will choose the m
 This project allows for the understanding of the a common artificial intelligence algorithm for developing two-person games. Also, the project will allow for individuals to become familiar with connecting a language like Python to front-end displays.
 
 ## How do I get started?
-Before contributing to the project, make sure to read the CONTRIBUTING file located [here]
+Before contributing to the project, make sure to read the CONTRIBUTING file located [here](CONTRIBUTING.md)
 
 ### Installation Instructions
 To get started, ensure that you have the current versions of these languages and softwares:
