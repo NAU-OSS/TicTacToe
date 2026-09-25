@@ -1,7 +1,4 @@
-# TicTacToes
-This is a classic Tic Tac Toe game that puts the player against a bot that uses the Minimax artificial intelligence algorithm to create a foe that can be tricky to beat.
-
-# TicTacToes
+# TicTacToe
 This is a classic Tic Tac Toe game that puts the player against a bot that uses the Minimax artificial intelligence algorithm to create a foe that can be tricky to beat.
 
 ## What does the project do?
@@ -35,6 +32,7 @@ Once the repo is cloned and you're ready to begin working with the project, crea
 ```
 git switch -c [YOUR_BRANCH_NAME]
 ```
+Now you're ready to make your own changes.
 
 ## License and Copyright
 View the license for this project [here](LICENSE)
