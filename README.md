@@ -20,16 +20,16 @@ To get started, ensure that you have the current versions of these languages and
 
 #### Cloning into the repository
 To clone into the repo, ensure Git is installed, and type in the command prompt:
-'''
+```
 git clone https://github.com/NAU-OSS/TicTacToe.git
-'''
+```
 Now you have all of the current files in the repository!
 
 #### Switching to a new branch
 Once the repo is cloned and you're ready to begin working with the project, create a new branch and switch to it using:
-'''
+```
 git switch -c [YOUR_BRANCH_NAME]
-'''
+```
 
 ## License and Copyright
 View the license for this project [here](LICENSE)
