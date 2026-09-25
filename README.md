@@ -15,8 +15,13 @@ Before contributing to the project, make sure to read the CONTRIBUTING file loca
 
 ### Installation Instructions
 To get started, ensure that you have the current versions of these languages and softwares:
-  - Python 3.12+
-  - Git 2.4+
+```
+Python 3.12+
+```
+and
+```
+Git 2.4+
+```
 
 #### Cloning into the repository
 To clone into the repo, ensure Git is installed, and type in the command prompt:
